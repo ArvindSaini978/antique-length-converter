@@ -2,14 +2,14 @@
 A tailwind project to calculate length. Antique length converter can convert length from one unit to another.
 ## Table of contents
 * [General info](#general-info)
-* [Preview](#preview)
+* [Use it now](#Use-it-now)
 * [Technologies](#technologies)
 * [Setup](#setup)
 * [Contribution](#contribution)
 ## General Info
 Antique length converter can convert length from one unit to another. It is a web based utility to length conversion.
-## Preview
-You can check the preview by visiting [Antique Length Converter](https://antique-length-converter.onrender.com/)
+## Use it now
+You can use it by visiting [Antique Length Converter](https://antique-length-converter.onrender.com/)
 ## Technologies 
 * HTML
 * CSS
